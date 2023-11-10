@@ -12,14 +12,13 @@ If you're seeing this, you've probably already done this step.
 # after clone | fork all that's left todo is
 npm install
 
-# well 2 things... you could check out 
-[this](threlte.xyz)
-
 # make sure your are in the right DIRECTORY before running 
 npm run dev
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
+# well 2 things... you could check out 
+[this](threlte.xyz)
 
 ## Building
 
@@ -27,6 +26,7 @@ To create a production version of your app:
 
 ```bash
 npm run build
+but 
 ```
 
 You can preview the production build with `npm run preview`.
