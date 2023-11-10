@@ -12,7 +12,8 @@ If you're seeing this, you've probably already done this step.
 # after clone | fork all that's left todo is
 npm install
 
-# well 2 things... you could check out [this](threlte.xyz)
+# well 2 things... you could check out 
+[this](threlte.xyz)
 
 # make sure your are in the right DIRECTORY before running 
 npm run dev
