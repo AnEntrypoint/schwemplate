@@ -17,8 +17,8 @@ npm run dev
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
-# well 2 things... you could check out 
-[this](threlte.xyz)
+## well actually there are 2 things... you could check out 
+### [this](threlte.xyz)
 
 ## Building
 
